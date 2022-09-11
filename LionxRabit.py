@@ -321,7 +321,7 @@ def main():
       content_length_header = "Content-Length: " + str(args.length)
 
       print("Đang Attacks %s Với %d sockets." % (host, socket_count))
-      print("Đang Tạo sockets...") 
+      print("vui lòng chờ (không ddos chinhphu)...") 
 
       for i in range(socket_count):
          try:
