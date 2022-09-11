@@ -6,4 +6,8 @@ python setup.py
 
 python3 LionxRabit -s 100 -t 5 https://nhatquyenit.net/
 
+Hoặc
+
+python LionxRabit.py https://nhatquyenit.net/
+
 ĐỢI KHÁ LÂU 
